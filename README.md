@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning how to play piano, what c++ is, maths, and DSP.
 - 💞️ I’m looking to collaborate on things on condition that i think i can contribute in an useful way.
 - 📫 How to reach me: the github name at gmail (a.i. can figure that out now and create spam)
-- 😄 Pronouns: are a minefield due to rampant emotional imbalance
-- ⚡ Fun fact: the government has never lied about anything. in fact, no one has ever lied about anything.
+
 
 <!---
 amateurtools/amateurtools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
