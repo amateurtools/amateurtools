@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amateurtools
-- 👀 I’m interested in the music of JS Bach and learning things.
-- 🌱 I’m currently learning how to play piano, what c++ is, maths, and DSP.
+- 👀 I’m interested in the music of JS Bach.
+- 🌱 I’m currently learning all the things for half a century.
 
 
 <!---
