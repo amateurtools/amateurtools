@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amateurtools
+- 👋 Hi, I’m @amateurtools, and hey -- I'm learning on the job!
 - 👀 I like some aspects of life more than others.
 - 🌱 I’m currently learning all the things for half a century.
 
