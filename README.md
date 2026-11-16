@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amateurtools
-- 👀 I’m interested in the music of JS Bach.
+- 👀 I like some aspects of life more than others.
 - 🌱 I’m currently learning all the things for half a century.
 
 
