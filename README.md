@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amateurtools, and hey -- I'm learning on the job!
-- 👀 I like some aspects of life more than others.
+- 👀 I like some aspects of life more than others, which I know is hard to believe.
 - 🌱 I’m currently learning all the things for half a century.
 
 
